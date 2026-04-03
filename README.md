@@ -1,4 +1,4 @@
-# Deep Learning Projects
+# Basic Deep Learning Projects
 
 This repository contains basic deep learning projects built using Python for learning and practice.
 
