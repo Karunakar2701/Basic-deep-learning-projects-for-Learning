@@ -9,6 +9,7 @@ This repository contains basic deep learning projects built using Python for lea
 * **Multiclass Classification** – Multiclass classification using synthetic data
 * **Circle Classification** – Binary classification with non-linear data
 * **Fashion MNIST** – Image classification using a neural network
+* **Custom Datasets** - Custom Image classification using a neural network
 
 ---
 
