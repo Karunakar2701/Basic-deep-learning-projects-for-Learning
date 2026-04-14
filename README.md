@@ -10,6 +10,8 @@ This repository contains basic deep learning projects built using Python for lea
 * **Circle Classification** – Binary classification with non-linear data
 * **Fashion MNIST** – Image classification using a neural network
 * **Custom Datasets** - Custom Image classification using a neural network
+* **Transfer Learning** - Custom Image classification using EfficientNet_B0
+* **Handwritten Digit Recognition ** - Handwritten Digit Recognition using MNIST Dataset
 
 ---
 
@@ -19,6 +21,7 @@ This repository contains basic deep learning projects built using Python for lea
 * PyTorch
 * NumPy
 * Matplotlib
+* sklearn
 
 ---
 
